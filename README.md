@@ -59,7 +59,6 @@ Important notes:
 - **Churn Win-back**: Automated email/SMS with "We miss you + new shows for you"
 
 
-
-https://brighttv-pulse.lovable.app
+interactive Lovable Dashboard:https://brighttv-pulse.lovable.app
 
 
